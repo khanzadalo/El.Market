@@ -2,7 +2,9 @@
 
 > **ВАЖНО**: Этот проект все еще находится в стадии разработки. Некоторые функции могут быть недоступны или работать нестабильно.
 
-![Screenshot of my project](https://github.com/khanzadalo/El.Market/images/screenshot1.jpg "Project Screenshot")
+![screenshot1](https://github.com/khanzadalo/El.Market/assets/151526280/7a532378-e13d-4080-a51f-655c93b4d602)
+
+
 Этот проект представляет собой онлайн-магазин, созданный с использованием Django, Python и JavaScript.
 ---
 ## Основные функции
